@@ -11,4 +11,4 @@ spring:
 spring:
   profiles: test
   application:
-    name: mcloud-config-yang-dev
+    name: mcloud-config-yang-test
